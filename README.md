@@ -21,11 +21,7 @@ The assistant uses **Google's Gemini 2.0 Flash (experimental)** via API for inte
 ## 🛠️ Technologies Used
 
 - Python 3.10+
-- [Google Generative AI SDK](https://pypi.org/project/google-generativeai/)
-- [Gemini 2.0 Flash API](https://ai.google.dev/)
+- [Google Generative AI SDK]
+- [Gemini 2.0 Flash API]
 - dotenv for environment variable management
-
----
-
-## 📂 Project Structure
 
